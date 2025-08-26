@@ -1,7 +1,7 @@
 # Hi, I'm Aryan Samantaray 👋
 
 🎓 Majoring in Computer Science and Math at Purdue University (Dean’s List, Semester Honors)  
-💻 Experience as a Software Engineer Intern at Toyota and Apprentice at Merck  
+💻 Experience as an IT Architect Intern at Toyota and Apprentice at Merck  
 🚀 Skilled in full-stack development, cloud platforms (AWS & Azure), DevOps, and AI-driven solutions  
 
 Some of my projects on GitHub showcase my interests in backend systems and full stack development.  
